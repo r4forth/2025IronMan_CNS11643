@@ -30,11 +30,18 @@
 
 CCCII 最大的特色就是能 **針對異體字** 做處理，可以透過後面兩個位元組來找到某個中文字的異體字。這也是在早期中文編碼系統中，很少見的做法。
 
+如果各位對國字整理小組有興趣，可以到中研院資訊所謝清俊教授的專業查看相關資料。
+
+* [謝清俊教授研究著作](https://cdp.sinica.edu.tw/cchsieh/hcc-research-list.html)
+* [國字整理小組十年](http://cdp.sinica.edu.tw/cchsieh/research/hcc-research-43.pdf)
+
 ## 現今網路上殘存的記憶
 
 ### http://www.cccii.org.tw/
 
 CCCII 非官方網站已經結束，目前仍可從 Internet Archive 找到當初的[頁面存檔](https://web.archive.org/web/20050211214404/http://www.cccii.org.tw/)。
+
+![](img/08_01.png)
 
 個人對於當初的實作比較感興趣。
 
@@ -42,8 +49,10 @@ CCCII 非官方網站已經結束，目前仍可從 Internet Archive 找到當�
 
 目前在此[網頁](https://web.archive.org/web/20041010143418/http://santos.ee.ntu.edu.tw/~changcs/whterm/whterm-5.html)還能下載 CCCII 的數位資料
 
-![]()
+![](img/08_02.png)
 
-編寫文章呈現的效果
+編寫文章呈現的效果。
 
-![]()
+![](img/08_03.png)
+
+註: 圖片來源為 **文煥終端機** 作者執行終端機程式的螢幕截圖。
